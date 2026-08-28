@@ -14,6 +14,8 @@ The reference material is suitable for:
 | Part | Title | Main coverage |
 | --- | --- | --- |
 | 1 | [Servlet](servlet.md) | Generic Servlet, Http Servlet, Request-Response Handling, Servlet Life Cycle, Session Management, Listeners, and Filters |
+| 2 | [JSP](jsp.md) | Coming soon... |
+| 3 | [Web Service](webservice.md) | Coming soon... |
 
 ## Technology Baseline
 
