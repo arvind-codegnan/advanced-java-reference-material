@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-1. [What Is Jakarta Servlet?](#1-what-is-jakarta-servlet)
+1. [What Is Servlet?](#1-what-is-servlet)
 2. [Why Is Servlet Technology Used?](#2-why-is-servlet-technology-used)
 3. [Servlet Architecture and Request Flow](#3-servlet-architecture-and-request-flow)
 4. [Java 21 and Servlet 6.0 Requirements](#4-java-21-and-servlet-60-requirements)
@@ -43,7 +43,7 @@
 35. [Best Practices and Common Servlet Errors](#35-best-practices-and-common-servlet-errors)
 36. [Frequently Asked Interview Questions](#36-frequently-asked-interview-questions)
 
-## 1. What Is Jakarta Servlet?
+## 1. What Is Servlet?
 
 A **servlet** is a Java class managed by a servlet container to receive requests, execute server-side logic, and create responses.
 
