@@ -1,8 +1,8 @@
-# Jakarta EE Web Reference Material
+# Advanced Java Reference Material
 
-> # Jakarta Server Pages 3.1
+> # JSP
 
-🏚️ [Home](index.md) 🔸 ⬅️ Previous: [Servlet](servlet.md) 🔸 ➡️ Next: [Spring Web MVC](spring-web-mvc.md)
+🏚️ [Home](index.md) 🔸 ⬅️ Previous: [Servlet](servlet.md) 🔸 ➡️ Next: [Next](webservice.md)
 
 ## Table of Contents
 
@@ -1995,7 +1995,7 @@ Use Post-Redirect-Get: process the POST, redirect to a GET URL, and render the r
 
 ---
 
-🏚️ [Home](index.md) 🔸 ⬅️ Previous: [Servlet](servlet.md) 🔸 ➡️ Next: [Spring Web MVC](spring-web-mvc.md)
+🏚️ [Home](index.md) 🔸 ⬅️ Previous: [Servlet](servlet.md) 🔸 ➡️ Next: [Next](webservice.md)
 
 <!-- Mermaid rendering support for GitHub Pages/Jekyll. -->
 <script type="module">
