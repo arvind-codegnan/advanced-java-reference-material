@@ -21,6 +21,7 @@ The reference material is suitable for:
 | --- | --- |
 | Jakarta EE | 10 |
 | Java | 21 |
+| Web Server | Tomcat 10.1.59 |
 | Database | MySQL 9.7.0 |
 | Build tool | Maven 3.9.16 |
 | IDE | IntelliJ |
