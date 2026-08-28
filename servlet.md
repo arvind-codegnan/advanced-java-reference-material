@@ -1,8 +1,8 @@
-# Jakarta EE Web Reference Material
+# Advanced Java Reference Material
 
-> # Jakarta Servlet 6.0
+> # Servlet
 
-🏚️ [Home](index.md) 🔸 ⬅️ Previous: [JDBC](jdbc.md) 🔸 ➡️ Next: [Jakarta Server Pages](jsp.md)
+🏚️ [Home](index.md) 🔸 ⬅️ Previous: [Previous](previous.md) 🔸 ➡️ Next: [JSP](jsp.md)
 
 ## Table of Contents
 
@@ -2138,7 +2138,7 @@ Check deployment success, context path, URL case, annotation discovery, `metadat
 
 ---
 
-🏚️ [Home](index.md) 🔸 ⬅️ Previous: [JDBC](jdbc.md) 🔸 ➡️ Next: [Jakarta Server Pages](jsp.md)
+🏚️ [Home](index.md) 🔸 ⬅️ Previous: [Previous](previous.md) 🔸 ➡️ Next: [JSP](jsp.md)
 
 <!-- Mermaid rendering support for GitHub Pages/Jekyll. -->
 <script type="module">
